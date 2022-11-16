@@ -40,5 +40,4 @@ HDMI显示屏：10.1寸、分辨率1280*800
 点击返回回到主界面，点击普通用户，进入普通用户界面，待识别人员对准摄像头，能将录入的人员识别出，并显示ID，在右边会有相关提示信息，身份认证成功能控制舵机开门。
 ![image](https://note.youdao.com/yws/api/personal/file/14ABB237F7124661992BB3045971547B?method=download&shareKey=c56967a8a4868a6bde4aff68ec216b66)
 
-在CSDN上有比较详细的解说，可以参考参考：https://blog.csdn.net/One_L_Star/article/details/99837868
-原文链接：https://onestar.newstar.net.cn/blog/34
+
