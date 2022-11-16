@@ -20,15 +20,12 @@ HDMI显示屏：10.1寸、分辨率1280*800
 ## 四、用户手册
 ### 1、系统主界面
 启动树莓派，就能看到主界面，如下：
-![image](https://note.youdao.com/yws/api/personal/file/20242355ABB944ADBCD920197AF758B2?method=download&shareKey=589a6e92faf56f38e0edb05bddbd122b)
 主界面是“欢迎使用人脸识别门禁系统”字样和普通用户、管理员两个功能按键，点击能进入相应的功能界面。
 
 ### 2、登录界面
 点击主界面的管理员按键，进入管理员登录界面，输入响应的账号和密码点击登录即可进入管理员管理界面，默认初始账号为1，密码为1，点击返回能返回主界面。
-![image](https://note.youdao.com/yws/api/personal/file/39359DDF68E348169723D6ACB9DCE06E?method=download&shareKey=f7cf265b18759eb12371f6b15e82443f)
 
 ### 3、人脸录入界面
-![image](https://note.youdao.com/yws/api/personal/file/C884B31EB077466FA26A3CEBDFF4D3F6?method=download&shareKey=a18c84c8bab2651f018522bcce671d4c)
 
 #### 3.1 人脸检测
 在人脸录入界面中，左边是摄像头视屏采集界面，能够将视频图像显示到界面中，并对人脸进行检测，将图像中所有的人脸检测出来，并用矩形框框出。
@@ -38,6 +35,5 @@ HDMI显示屏：10.1寸、分辨率1280*800
 
 ### 4、人脸识别开门功能
 点击返回回到主界面，点击普通用户，进入普通用户界面，待识别人员对准摄像头，能将录入的人员识别出，并显示ID，在右边会有相关提示信息，身份认证成功能控制舵机开门。
-![image](https://note.youdao.com/yws/api/personal/file/14ABB237F7124661992BB3045971547B?method=download&shareKey=c56967a8a4868a6bde4aff68ec216b66)
 
 
